@@ -11,7 +11,7 @@
 
 
 <p width="200" >
-    <img src="/jellyfish.png" align="left" >
+    <img width="100" heigh="100" src="/jellyfish.png" align="left" >
     <p align="left">
     <h4>Jellyfish</h4>
     <p>Simple website with 3d jellyfish</p>
