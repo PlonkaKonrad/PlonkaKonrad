@@ -13,7 +13,7 @@
 <p width="200" >
     <img width="200" heigh="200" src="/jellyfish.png" align="left" >
     <p align="left">
-    <h4>[https://jelly-coral.vercel.app/]Jellyfish</h4>
+    <h4>[Jellyfish](https://jelly-coral.vercel.app/)</h4>
     <p>Simple website with 3d jellyfish</p>
     <p>Technologies: React, Next.js, Three.js, Tailwind</p>
     </p>
