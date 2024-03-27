@@ -13,8 +13,16 @@
 <p width="200" >
     <img width="200" heigh="200" src="/jellyfish.png" align="left" >
     <p align="left">
-    <h4>Jellyfish (https://jelly-coral.vercel.app)</h4>
+    <h4>[Jellyfish](https://jelly-coral.vercel.app)</h4>
     <p>Simple website with 3d jellyfish</p>
     <p>Technologies: React, Next.js, Three.js, Tailwind</p>
+    </p>
+</p>
+<p width="200" >
+    <img width="200" heigh="200" src="/node.png" align="left" >
+    <p align="left">
+    <h4>[Dividend crawler](https://github.com/PlonkaKonrad/dividend-crawler)</h4>
+    <p>Simple crawler for [Dividend Page](https://strefainwestorow.pl/dane/dywidendy/lista-dywidend/2024)</p>
+    <p>Technologies: Node, Axios, cheerio</p>
     </p>
 </p>
