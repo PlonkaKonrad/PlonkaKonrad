@@ -26,3 +26,11 @@
     <p>Technologies: Node, Axios, cheerio</p>
     </p>
 </p>
+<p width="200" >
+    <img width="200" heigh="200" src="/gpt.png" align="left" >
+    <p align="left">
+    <h4> GPT trading boilerplate (https://github.com/PlonkaKonrad/dividend-crawler)</h4>
+    <p>Simple boilerplate for trading usign GPT api</p>
+    <p>Technologies: Node, openai, node-cron</p>
+    </p>
+</p>
