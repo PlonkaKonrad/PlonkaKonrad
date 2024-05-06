@@ -18,6 +18,7 @@
     <p>Technologies: React, Next.js, Three.js, Tailwind</p>
     </p>
 </p>
+<br/>
 <p width="200" >
     <img width="200" heigh="200" src="/node.png" align="left" >
     <p align="left">
@@ -26,11 +27,11 @@
     <p>Technologies: Node, Axios, cheerio</p>
     </p>
 </p>
+<br/>
 <p width="200" >
     <img width="200" heigh="200" src="/openai.png" align="left" >
     <p align="left">
-    <h4> GPT trading boilerplate </h4>
-        <a>(https://github.com/PlonkaKonrad/dividend-crawler)</a>
+    <h4> GPT trading boilerplate (https://github.com/PlonkaKonrad/dividend-crawler) </h4>
     <p>Simple boilerplate for trading usign GPT api</p>
     <p>Technologies: Node, openai, node-cron</p>
     </p>
