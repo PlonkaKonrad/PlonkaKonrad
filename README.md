@@ -21,22 +21,22 @@
 <br/>
 
 <p width="200" >
-    <img width="200" heigh="200" src="/node.png" align="left" >
+    <img width="200" heigh="200" src="/jellyfish.png" align="left" >
     <p align="left">
-    <h4> Dividend crawler (https://github.com/PlonkaKonrad/dividend-crawler)</h4>
-    <p>Simple crawler for dividends</p>
-    <p>Technologies: Node, Axios, cheerio</p>
+    <h4> Jellyfish (https://jelly-coral.vercel.app)</h4>
+    <p>Simple website with 3d jellyfish</p>
+    <p>Technologies: React, Next.js, Three.js, Tailwind</p>
     </p>
 </p>
 
 <br/>
 
 <p width="200" >
-    <img width="200" heigh="200" src="/jellyfish.png" align="left" >
+    <img width="200" heigh="200" src="/node.png" align="left" >
     <p align="left">
-    <h4> Jellyfish (https://jelly-coral.vercel.app)</h4>
-    <p>Simple website with 3d jellyfish</p>
-    <p>Technologies: React, Next.js, Three.js, Tailwind</p>
+    <h4> Dividend crawler (https://github.com/PlonkaKonrad/dividend-crawler)</h4>
+    <p>Simple crawler for dividends</p>
+    <p>Technologies: Node, Axios, cheerio</p>
     </p>
 </p>
 
