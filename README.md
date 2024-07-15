@@ -9,13 +9,12 @@
 
 <h3 align="left">Projects:</h3>
 
-
 <p width="200" >
-    <img width="200" heigh="200" src="/jellyfish.png" align="left" >
+    <img width="200" heigh="200" src="/openai.png" align="left" >
     <p align="left">
-    <h4> Jellyfish (https://jelly-coral.vercel.app)</h4>
-    <p>Simple website with 3d jellyfish</p>
-    <p>Technologies: React, Next.js, Three.js, Tailwind</p>
+    <h4> GPT trading boilerplate (https://github.com/PlonkaKonrad/gpt_trading_boilerplate) </h4>
+    <p>Simple boilerplate for trading usign GPT api</p>
+    <p>Technologies: Node, openai, node-cron</p>
     </p>
 </p>
 <br/>
@@ -29,10 +28,12 @@
 </p>
 <br/>
 <p width="200" >
-    <img width="200" heigh="200" src="/openai.png" align="left" >
+    <img width="200" heigh="200" src="/jellyfish.png" align="left" >
     <p align="left">
-    <h4> GPT trading boilerplate (https://github.com/PlonkaKonrad/gpt_trading_boilerplate) </h4>
-    <p>Simple boilerplate for trading usign GPT api</p>
-    <p>Technologies: Node, openai, node-cron</p>
+    <h4> Jellyfish (https://jelly-coral.vercel.app)</h4>
+    <p>Simple website with 3d jellyfish</p>
+    <p>Technologies: React, Next.js, Three.js, Tailwind</p>
     </p>
 </p>
+
+
