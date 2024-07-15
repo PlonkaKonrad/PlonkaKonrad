@@ -17,7 +17,9 @@
     <p>Technologies: Node, openai, node-cron</p>
     </p>
 </p>
+
 <br/>
+
 <p width="200" >
     <img width="200" heigh="200" src="/node.png" align="left" >
     <p align="left">
@@ -26,7 +28,9 @@
     <p>Technologies: Node, Axios, cheerio</p>
     </p>
 </p>
+
 <br/>
+
 <p width="200" >
     <img width="200" heigh="200" src="/jellyfish.png" align="left" >
     <p align="left">
